@@ -1,4 +1,4 @@
-package capter1;
+package chapter1;
 
 public class IdentifiersAndKeyWords {
 
@@ -16,10 +16,10 @@ public class IdentifiersAndKeyWords {
          * Illegal identifiers
          */
 
-        int :b;
-        int -d:
-        int e#;
-        int .f;
-        int 7g;
+       // int :b;
+       // int -d:
+       // int e#;
+       // int .f;
+       // int 7g;
     }
 }
