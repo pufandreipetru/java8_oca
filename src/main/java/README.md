@@ -1,6 +1,10 @@
+Java OCA examples
+--------------
 Compile
 --------------
+```
 javac -classpath ./classes -d ./classes chapter1/*.java
+```
 
 Run
 --------------
