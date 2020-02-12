@@ -3,13 +3,13 @@ Java OCA examples
 Compile
 --------------
 ```
-javac -classpath ./classes -d ./classes chapter1/*.java
+javac -classpath . -d ./classes oca/chapter1/*.java
 ```
 
 Run
 --------------
 ```
-java -classpath ./classes/ chapter1.MainSpecial		
+java -classpath ./classes oca.chapter1.MainSpecial		
 ```
 Search for a class
 --------------
