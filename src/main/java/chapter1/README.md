@@ -1,14 +1,16 @@
 Declaration and access control
 -
 
-```
-
-/src/main/java
-
-javac -cp . chapter1/*.java
-java -cp . chapter1.IdentifiersAndKeyWords
- 
-```
 * IdentifiersAndKeyWords.java
     * Legal identifiers
     * Illegal identifiers
+
+* MainArgs.java
+    * Listing the command arguments
+
+* MainSpecial.java
+    * Overloading the main method
+
+* StaticImports.java  
+    * Importing static elements of a class
+
