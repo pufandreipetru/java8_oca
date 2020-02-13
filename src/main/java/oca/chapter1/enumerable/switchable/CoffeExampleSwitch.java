@@ -1,4 +1,4 @@
-package oca.chapter1.enumerable;
+package oca.chapter1.enumerable.switchable;
 
 import static java.lang.System.*;
 
@@ -19,11 +19,13 @@ class Coffe implements Drink {
 	}
 }
 
-public class CoffeExample {
+public class CoffeExampleSwitch {
 
 	public static void main(String[] args) {
+		String size = args[0];
+		CoffeSize coffeSize = CoffeSize.valueOf(size);
 		Drink coffe = new Coffe();
-		coffe.setSize(CoffeSize.HUGE);
+		coffe.setSize(coffeSize);
 		out.println(coffe.toString());		
 	}
 	
