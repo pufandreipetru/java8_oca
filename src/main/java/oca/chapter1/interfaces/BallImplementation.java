@@ -20,4 +20,13 @@ public class BallImplementation implements Ball {
     public void roll2() {
         System.out.println("Roll2 ball");
     }
+
+//
+//    public void action() {
+//        System.out.println("Ball action in implementation");
+//    }
+//
+//    public static void staticAction() {
+//        System.out.println("Ball static action in implementation");
+//    }
 }
