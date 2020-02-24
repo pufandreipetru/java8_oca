@@ -1,0 +1,4 @@
+The argument list must exactly match that of the overridden method, otherwise we have overload.
+Access level cannot be more restrictive than the overridden method, but can be less restrictive.
+Overriding method can throw unchecked exception, but can't throw checked exception.
+Cannot override final/static.
