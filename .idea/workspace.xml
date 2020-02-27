@@ -2,49 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1893d3ee-7907-4ea8-b014-6d17893596e2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/oca/chapter2/andrei_puf/inheritance/InterfaceImplementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oca/chapter2/andrei_puf/inheritance/InterfaceImplementation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/out/production/java8_oca/oca/chapter1/IdentifiersAndKeyWords.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/out/production/java8_oca/oca/chapter1/MainArgs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/out/production/java8_oca/oca/chapter1/MainSpecial.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/out/production/java8_oca/oca/chapter1/StaticImports.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/out/production/java8_oca/oca/chapter1/abstractclazz/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/out/production/java8_oca/oca/chapter1/abstractclazz/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/out/production/java8_oca/oca/chapter1/abstractclazz/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/out/production/java8_oca/oca/chapter1/abstractity/UserAccess.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/out/production/java8_oca/oca/chapter1/abstractity/UserAccessImplementation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/out/production/java8_oca/oca/chapter1/abstractity/UserAccessTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/out/production/java8_oca/oca/chapter1/automotive/Bmw.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/out/production/java8_oca/oca/chapter1/automotive/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/out/production/java8_oca/oca/chapter1/classes/MainExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/out/production/java8_oca/oca/chapter1/classes/MyFirstClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/out/production/java8_oca/oca/chapter1/classes/MySecondClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/out/production/java8_oca/oca/chapter1/encapsulation/VATCalculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/out/production/java8_oca/oca/chapter1/encapsulation/VATCalculatorFood.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/out/production/java8_oca/oca/chapter1/encapsulation/VATCalculatorGeneral.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/out/production/java8_oca/oca/chapter1/encapsulation/VATCalculatorTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/out/production/java8_oca/oca/chapter1/enumerable/Coffe.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/out/production/java8_oca/oca/chapter1/enumerable/CoffeExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/out/production/java8_oca/oca/chapter1/enumerable/CoffeSize.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/out/production/java8_oca/oca/chapter1/enumerable/Drink.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/out/production/java8_oca/oca/chapter1/enumerable/switchable/Coffe.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/out/production/java8_oca/oca/chapter1/enumerable/switchable/CoffeExampleSwitch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/out/production/java8_oca/oca/chapter1/enumerable/switchable/CoffeSize.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/out/production/java8_oca/oca/chapter1/enumerable/switchable/Drink.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/out/production/java8_oca/oca/chapter1/finality/Drink.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/out/production/java8_oca/oca/chapter1/finality/Tea.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/out/production/java8_oca/oca/chapter1/interfaces/Ball.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/out/production/java8_oca/oca/chapter1/interfaces/BallImplementation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/out/production/java8_oca/oca/chapter1/interfaces/Constants.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/out/production/java8_oca/oca/chapter1/interfaces/Rollable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/out/production/java8_oca/oca/chapter1/package_access/package1/FirstClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/out/production/java8_oca/oca/chapter1/package_access/package2/SecondClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/out/production/java8_oca/oca/chapter2/alexandra_pete/polimorphism/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/out/production/java8_oca/oca/chapter2/alexandra_pete/polimorphism/Cat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/out/production/java8_oca/oca/chapter2/alexandra_pete/polimorphism/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/out/production/java8_oca/oca/chapter2/alexandra_pete/polimorphism/Horse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/out/production/java8_oca/oca/chapter2/alexandra_pete/polimorphism/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/out/production/java8_oca/oca/chapter2/andrei_puf/encapsulation/EncapsulateMe.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/out/production/java8_oca/oca/chapter2/andrei_puf/encapsulation/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -63,59 +22,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/oca/chapter2/alexandra_pete/polimorphism/Animal.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="9" column="24" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="24" />
-              <folding>
-                <element signature="e#132#133#0" expanded="true" />
-                <element signature="e#164#165#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/oca/chapter2/alexandra_pete/polimorphism/Cat.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="7" column="24" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="24" />
-              <folding>
-                <element signature="e#113#114#0" expanded="true" />
-                <element signature="e#140#141#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/oca/chapter2/alexandra_pete/polimorphism/Dog.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-              <folding>
-                <element signature="e#170#171#0" expanded="true" />
-                <element signature="e#236#237#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/oca/chapter2/alexandra_pete/legalReturnTypes/overload/OverloadReturnTypeExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-              <folding>
-                <element signature="e#121#122#0" expanded="true" />
-                <element signature="e#159#160#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/oca/chapter2/alexandra_pete/legalReturnTypes/override/Animal.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/oca/chapter2/alexandra_petre/legalReturnTypes/override/Animal.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
               <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
@@ -124,7 +31,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/oca/chapter2/alexandra_pete/legalReturnTypes/override/Dog.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/oca/chapter2/alexandra_petre/legalReturnTypes/override/Dog.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
               <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
@@ -133,7 +40,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/oca/chapter2/alexandra_pete/legalReturnTypes/override/OverrideExample1.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/oca/chapter2/alexandra_petre/legalReturnTypes/override/OverrideExample1.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
               <caret line="9" column="78" selection-start-line="9" selection-start-column="78" selection-end-line="9" selection-end-column="78" />
@@ -142,7 +49,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/oca/chapter2/alexandra_pete/legalReturnTypes/override/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/oca/chapter2/alexandra_petre/legalReturnTypes/override/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="80">
               <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
@@ -151,7 +58,55 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/oca/chapter2/alexandra_pete/legalReturnTypes/override/OverrideExample2.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/oca/chapter2/alexandra_petre/initBlocks/Animal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="15" selection-start-line="15" selection-end-line="21" selection-end-column="5" />
+              <folding>
+                <element signature="e#92#93#0" expanded="true" />
+                <element signature="e#113#114#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/oca/chapter2/alexandra_petre/initBlocks/Dog.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+              <folding>
+                <element signature="e#108#109#0" expanded="true" />
+                <element signature="e#164#165#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/oca/chapter2/alexandra_petre/initBlocks/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+              <folding>
+                <element signature="e#113#114#0" expanded="true" />
+                <element signature="e#134#135#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/oca/chapter2/andrei_puf/inheritance/SecondObjectInheritance.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/oca/chapter2/alexandra_petre/legalReturnTypes/override/OverrideExample2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="80">
               <caret line="4" column="43" selection-start-line="4" selection-end-line="5" />
@@ -160,7 +115,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/oca/chapter2/alexandra_pete/polimorphism/Horse.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/oca/chapter2/alexandra_petre/polimorphism/Horse.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
               <caret line="3" selection-start-line="3" selection-end-line="5" selection-end-column="5" />
@@ -201,6 +156,10 @@
         <option value="$PROJECT_DIR$/src/main/java/oca/chapter2/alexandra_pete/legalReturnTypes/override/OverrideExample1.java" />
         <option value="$PROJECT_DIR$/src/main/java/oca/chapter2/alexandra_pete/legalReturnTypes/override/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/oca/chapter2/alexandra_pete/legalReturnTypes/overload/OverloadReturnTypeExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/oca/chapter2/alexandra_petre/legalReturnTypes/override/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/oca/chapter2/alexandra_petre/initBlocks/Animal.java" />
+        <option value="$PROJECT_DIR$/src/main/java/oca/chapter2/alexandra_petre/initBlocks/Dog.java" />
+        <option value="$PROJECT_DIR$/src/main/java/oca/chapter2/alexandra_petre/initBlocks/Main.java" />
       </list>
     </option>
   </component>
@@ -215,6 +174,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -265,7 +226,7 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="oca" type="462c0819:PsiDirectoryNode" />
               <item name="chapter2" type="462c0819:PsiDirectoryNode" />
-              <item name="alexandra_pete" type="462c0819:PsiDirectoryNode" />
+              <item name="alexandra_petre" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java8_oca" type="b2602c69:ProjectViewProjectNode" />
@@ -275,39 +236,13 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="oca" type="462c0819:PsiDirectoryNode" />
               <item name="chapter2" type="462c0819:PsiDirectoryNode" />
-              <item name="alexandra_pete" type="462c0819:PsiDirectoryNode" />
-              <item name="legalReturnTypes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java8_oca" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java8_oca" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="oca" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter2" type="462c0819:PsiDirectoryNode" />
-              <item name="alexandra_pete" type="462c0819:PsiDirectoryNode" />
-              <item name="legalReturnTypes" type="462c0819:PsiDirectoryNode" />
-              <item name="overload" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java8_oca" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java8_oca" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="oca" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter2" type="462c0819:PsiDirectoryNode" />
-              <item name="alexandra_pete" type="462c0819:PsiDirectoryNode" />
-              <item name="legalReturnTypes" type="462c0819:PsiDirectoryNode" />
-              <item name="override" type="462c0819:PsiDirectoryNode" />
+              <item name="alexandra_petre" type="462c0819:PsiDirectoryNode" />
+              <item name="initBlocks" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -321,7 +256,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.3831991" />
-    <property name="settings.editor.selected.configurable" value="preferences.externalDependencies" />
+    <property name="settings.editor.selected.configurable" value="Groovy compiler" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -347,13 +282,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration name="IdentifiersAndKeyWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter1.IdentifiersAndKeyWords" />
       <module name="java8_oca" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="chapter1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oca.chapter2.alexandra_petre.initBlocks.Main" />
+      <module name="java8_oca" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oca.chapter2.alexandra_petre.initBlocks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -389,6 +337,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.MainArgs" />
         <item itemvalue="Application.IdentifiersAndKeyWords" />
@@ -412,17 +361,18 @@
       <workItem from="1582301579591" duration="1275000" />
       <workItem from="1582304568659" duration="598000" />
       <workItem from="1582704716862" duration="599000" />
-      <workItem from="1582789703680" duration="1509000" />
+      <workItem from="1582789703680" duration="1743000" />
+      <workItem from="1582796730834" duration="583000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10236000" />
+    <option name="totallyTimeSpent" value="11053000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1001" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30320856" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30695188" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -438,7 +388,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.43963555" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.58656037" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32915717" />
@@ -605,7 +555,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/oca/chapter2/alexandra_pete/polimorphism/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/oca/chapter2/alexandra_petre/polimorphism/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
           <caret line="14" selection-start-line="14" selection-end-line="14" />
@@ -660,88 +610,112 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/oca/chapter2/alexandra_pete/polimorphism/Animal.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/oca/chapter2/alexandra_petre/polimorphism/Animal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
           <caret line="9" column="24" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="24" />
-          <folding>
-            <element signature="e#132#133#0" expanded="true" />
-            <element signature="e#164#165#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/oca/chapter2/alexandra_pete/polimorphism/Cat.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/oca/chapter2/alexandra_petre/polimorphism/Cat.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
           <caret line="7" column="24" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="24" />
-          <folding>
-            <element signature="e#113#114#0" expanded="true" />
-            <element signature="e#140#141#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/oca/chapter2/alexandra_pete/polimorphism/Horse.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/oca/chapter2/alexandra_petre/polimorphism/Dog.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" selection-start-line="3" selection-end-line="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/oca/chapter2/alexandra_pete/polimorphism/Dog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
+        <state relative-caret-position="140">
           <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#170#171#0" expanded="true" />
-            <element signature="e#236#237#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/oca/chapter2/alexandra_pete/legalReturnTypes/override/Animal.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/oca/chapter2/alexandra_petre/legalReturnTypes/overload/OverloadReturnTypeExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/oca/chapter2/alexandra_petre/legalReturnTypes/override/Animal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/oca/chapter2/alexandra_pete/legalReturnTypes/override/Dog.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/oca/chapter2/alexandra_petre/legalReturnTypes/override/Dog.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/oca/chapter2/alexandra_pete/legalReturnTypes/override/OverrideExample1.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/oca/chapter2/alexandra_petre/legalReturnTypes/override/OverrideExample1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="9" column="78" selection-start-line="9" selection-start-column="78" selection-end-line="9" selection-end-column="78" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/oca/chapter2/alexandra_pete/legalReturnTypes/override/OverrideExample2.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/oca/chapter2/alexandra_petre/legalReturnTypes/override/OverrideExample2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
           <caret line="4" column="43" selection-start-line="4" selection-end-line="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/oca/chapter2/alexandra_pete/legalReturnTypes/override/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/oca/chapter2/alexandra_petre/polimorphism/Horse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" selection-start-line="3" selection-end-line="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/oca/chapter2/alexandra_petre/legalReturnTypes/override/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
           <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/oca/chapter2/alexandra_pete/legalReturnTypes/overload/OverloadReturnTypeExample.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/oca/chapter2/alexandra_petre/initBlocks/Animal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="300">
+          <caret line="15" selection-start-line="15" selection-end-line="21" selection-end-column="5" />
           <folding>
-            <element signature="e#121#122#0" expanded="true" />
-            <element signature="e#159#160#0" expanded="true" />
+            <element signature="e#92#93#0" expanded="true" />
+            <element signature="e#113#114#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/oca/chapter2/andrei_puf/inheritance/SecondObjectInheritance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/oca/chapter2/alexandra_petre/initBlocks/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+          <folding>
+            <element signature="e#113#114#0" expanded="true" />
+            <element signature="e#134#135#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/oca/chapter2/alexandra_petre/initBlocks/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+          <folding>
+            <element signature="e#108#109#0" expanded="true" />
+            <element signature="e#164#165#0" expanded="true" />
           </folding>
         </state>
       </provider>
