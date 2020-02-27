@@ -1,4 +1,4 @@
-package oca.chapter2.alexandra_pete.legalReturnTypes.override;
+package oca.chapter2.alexandra_petre.legalReturnTypes.override;
 
 public class Main {
     public static void main(String[] args) {

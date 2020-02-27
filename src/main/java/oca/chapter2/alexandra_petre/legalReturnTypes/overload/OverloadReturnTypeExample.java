@@ -1,4 +1,4 @@
-package oca.chapter2.alexandra_pete.legalReturnTypes.overload;
+package oca.chapter2.alexandra_petre.legalReturnTypes.overload;
 
 public class OverloadReturnTypeExample {
     void test() {

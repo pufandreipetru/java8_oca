@@ -1,4 +1,4 @@
-package oca.chapter2.alexandra_pete.polimorphism;
+package oca.chapter2.alexandra_petre.polimorphism;
 
 public class Horse extends Animal {
     public Horse(String name) {
