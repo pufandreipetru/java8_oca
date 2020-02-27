@@ -1,4 +1,4 @@
-package oca.chapter2.alexandra_pete.polimorphism;
+package oca.chapter2.alexandra_petre.polimorphism;
 
 import java.util.ArrayList;
 import java.util.List;
