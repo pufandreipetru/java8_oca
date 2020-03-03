@@ -8,25 +8,41 @@ abstract class Animal {
 		out.println("I am running.");
 	}
 }
+
+class AbleToClimb {
+	public static void climb() {
+		out.println("I am climbing a tree");
+	}
+}
+
 interface Climbable {
 	void climb();
 }
 
 class Cat extends Animal implements Climbable {
+	
 	public void climb() {
-		out.println("I am climbing a tree");
+		AbleToClimb.climb();
 	}
 }
 
 interface Flyable {
 	void fly();
 }
+
 class Bird extends Animal implements Flyable {
 	public void fly() {
 		out.println("I am flying");
 	}
 
 }
+
+class Monkey extends Animal implements Climbable {
+	public void climb() {
+		AbleToClimb.climb();
+	}
+}
+
 
 public class SecondObjectInheritance {
 
