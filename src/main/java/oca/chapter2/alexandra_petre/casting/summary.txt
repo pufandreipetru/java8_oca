@@ -1,0 +1,3 @@
+Two types of casting:
+- downcast: an object of type Animal is cast to an object of type Cat (explicit)
+- upcast: an object of type Cat is cast to an object of type Animal (implicit)
