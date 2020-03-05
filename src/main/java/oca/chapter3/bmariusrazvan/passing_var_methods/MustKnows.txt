@@ -1,0 +1,22 @@
+1) When passing an object variable into a method, you are actually passing the object REFERENCE.
+2) A reference variable holds bits that represent a way to get the specific obj in memory (heap).
+3) We are always passing a COPY of the reference variable (a copy of the it bits basically).
+4) Java is pass-by-value for all variables (primitive or reference). Pass-by-value = pass-by-copy-of-the-variable in bits
+5) The called method can't change the caller's variable, but can change the object the variable referred to => for object references,
+the called method can't reassign the caller's original reference variable and make it refer to a diff object or null.
+
+void bar() {
+    Foo f = new Foo();
+    doStuff(f);
+}
+
+void doStuff() {
+    g.setName("Boo");
+    g = new Foo();
+}
+
+Here, reassigning g does not reassign f.
+
+6) When passing primitive variables, the result
+7) Shadowing involves reusing a variable name that's already been declared somewhere else. The effect is to hide the previously declared
+variable in such a way that it may look as though you're using the hidden variable.
