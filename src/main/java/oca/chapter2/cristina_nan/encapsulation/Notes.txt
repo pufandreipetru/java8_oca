@@ -1,0 +1,3 @@
+To keep encapsulation
+- Keep instance variables hidden(with an access modifier, often private)
+- Make public accessor methods(getters and setters can be called accessor and mutators)

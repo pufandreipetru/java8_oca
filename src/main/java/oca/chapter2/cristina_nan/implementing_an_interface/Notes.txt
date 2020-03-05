@@ -1,0 +1,6 @@
+- When you implement an interface, you’re agreeing to provide legal implementations for every abstract method defined in the interface 
+- Implementation classes are not required to implement an interface's static or default methods
+- A class can implement more than one interface
+- An interface can itself extend another interface
+- A class is required to implement an interface, plus all abstract methods from the interfaces that interface extends 
+- An abstract class does not need to implement all the methods of an interface
