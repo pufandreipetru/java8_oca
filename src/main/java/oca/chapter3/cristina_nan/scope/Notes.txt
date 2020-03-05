@@ -1,0 +1,5 @@
+We have four basic scopes of variables:
+- Static variables have the longest scope; they are created when the class is loaded, and they survive as long as the class stays loaded in the JVM
+- Instance variables - they were created when a new instance is created, and they live until instance is removed
+- Local variables - they live as long their method remains on the stack
+- Block variables - live only as long as the code block is executing
