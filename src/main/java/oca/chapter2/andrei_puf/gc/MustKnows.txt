@@ -1,3 +1,0 @@
-- Execution time of GC is not predictible
-- GC only operates on the Heap Memory
-
