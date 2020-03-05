@@ -1,0 +1,45 @@
+Liteterals - code representation of primitive data types;
+
+Integer literals
+----------------
+Can be represented as base 16, base 10, base 8, or base 2
+base 2 digits = {0, 1} - java representation ex: 0b10 or 0B10 or 0B1_0 
+base 8 digits = {0 ,1, 2, 3, 4, 5, 6, 7} - java representation ex: 075 or 07_5
+base 10 digits = {0, 1, 2,3,4, 5, 6, 7, 8, 9} - java representation ex: 10 or 1_0
+base 16 digits = {0,1,2,3,4,5,6,7,8,9, a or A, b or B, c or C, d or D, e or E, f or F} - java representation ex: 0xAB or 0XAB or 0XaB or 0xAb or 0Xab or 0xA_B
+
+Real Literals
+-------------
+Floating Point
+Can be represented in base 10 or base 16;
+Example: 12.2 (represented by default on 64 bits or of type double) 12.2f (32 bits or of type float)
+
+Boolean Literals
+----------------
+true, false
+
+Character literals
+Can represent a single character provided in quotes.
+Example: `a`
+
+Literal values for strings
+Can be represented as a string aray in quotes.
+
+Example: "ABC"
+
+Assignment operators:
+
+= - used to assign a value to a valiable
+  - the value can be a primitive or a reference to an object.
+  - an object reference variable can hold a reference on an object of its type or any other of its subtypes;                       
+
+Any operation on primitives returns an int;
+
+byte a = 3;
+byte b = 4;
+byte c = a + b;
+
+
+	 
+ 
+
