@@ -1,0 +1,9 @@
+- Instance variables are initialized to a default value each time a new instance is created, although they may be given an explicit value 
+after the object's super constructors have completed.
+- Default Values for Primitives and Reference Types
+       Object Reference -> null(not referencing any object)
+       byte, short, int, long -> 0
+       float, double -> 0.0
+       boolean -> false
+       char -> '\u0000'
+- Array elements are always, always, always given default values, regardless of where the array itself is instantiated.

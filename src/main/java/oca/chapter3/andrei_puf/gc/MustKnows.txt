@@ -1,0 +1,4 @@
+- Execution time of GC is not predictible
+- GC only operates on the Heap Memory
+- An object is eligible to be cleaned when there is no reference to it from an active thread.
+
