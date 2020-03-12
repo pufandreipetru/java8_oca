@@ -35,5 +35,5 @@ class Tornado {
                                         |
         The Heap  - instance variables (efs, location - Tornado object)
                                         |
-                  - Collar object (empty)
+                  - Tornado object (empty)
  */

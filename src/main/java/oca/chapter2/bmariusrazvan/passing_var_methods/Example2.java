@@ -14,6 +14,7 @@ public class Example2 {
         changeIt(name);
         System.out.println("Bus name after calling changeIt is " + name);
     }
+
 }
 
 // only the local name variable is modified, because the method has parameter named name
