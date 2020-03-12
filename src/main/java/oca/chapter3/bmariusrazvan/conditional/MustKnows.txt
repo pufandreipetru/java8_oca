@@ -1,0 +1,3 @@
+1) Conditional operator is a ternary operator, it is used to evaluate boolean expressions, but instead of executing a block of code, it will assign a value to a variable.
+2) It is constructed using a question mark (?) and a colon (:).
+3) It starts with a boolean operation, followed by 2 possible values for the variable to the left of the assignment operator (the first one is assigned if cond = true, the second one if cond = false)
