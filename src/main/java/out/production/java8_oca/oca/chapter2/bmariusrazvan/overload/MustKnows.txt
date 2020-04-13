@@ -1,0 +1,2 @@
+Overloaded methods must change argument list.
+Overloaded methods can change return type, access modifier, declare new or broader checked exceptions.

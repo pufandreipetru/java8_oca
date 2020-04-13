@@ -1,0 +1,5 @@
+Code in java can be put in:
+- Methods
+- Constructors: run whenever an instance is created
+- Static init blocks: run when class first loaded
+- Instance init blocks: run whenever an instance is created (right after calling super in a constructor)

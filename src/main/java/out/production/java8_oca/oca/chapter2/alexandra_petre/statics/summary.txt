@@ -1,0 +1,6 @@
+- Variables and methods marked as static belong to the type rather than to an instance
+- If there are class instances the static variable will be shared by all instances of the class
+- A static method cannot access an instance variable because there is no instance!
+- Think static=class, nonstatic=instance
+- When we run the main method the JVM doesn't create an instance of the class to start running code.
+- Static methods are not overridden, they can be redefined

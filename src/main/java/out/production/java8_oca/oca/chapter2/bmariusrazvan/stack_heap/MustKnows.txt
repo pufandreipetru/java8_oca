@@ -1,0 +1,9 @@
+1) Instance variables and object live on the heap
+2) Local variables live on the stack
+
+Key Diffs:
+1) Java Heap Space is used throughout the application, but Stack is only used for the method — or methods — currently running.
+2) The Heap Space contains all objects are created, but Stack contains any reference to those objects.
+3) Objects stored in the Heap can be accessed throughout the application. Primitive local variables are only accessed the Stack Memory blocks that contain their methods.
+4) Memory allocation in the Heap Space is accessed through a complex, young-generation, old-generation system. Stack is accessed through a last-in, first-out (LIFO) memory allocation system.
+5) Heap Space exists as long as the application runs and is larger than Stack, which is temporary, but faster.

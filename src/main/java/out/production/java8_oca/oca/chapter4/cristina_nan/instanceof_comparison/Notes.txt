@@ -1,0 +1,4 @@
+- instanceof operator is used for object reference variables only, and you can use it to check whether an object is of a particular type
+- An object is said to be of a particular interface(meaning will pass the instanceof test), if any of the object's superclasses implement the interface
+- Any object reference will be instanceof Object
+- An array is always an instance of Object

@@ -10,10 +10,9 @@ public class IOI {
         IOI i2 = new IOI();
         i1.i = i2;
         i2.i = i1;
-        i1=null;
-        i2=null;
-        gc();
+	gc();
         Thread.sleep(5000);
+	gc();
     }
     @Override
     protected void finalize() throws Throwable {
