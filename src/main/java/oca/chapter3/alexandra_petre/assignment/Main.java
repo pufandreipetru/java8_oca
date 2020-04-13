@@ -15,11 +15,12 @@ public class Main {
         a %= 2;
         System.out.println("a = " + a);
 
-//        a = -a;
-//        System.out.println("a=" + a);
+        a = -2;
+        a = -a;
+        System.out.println("a=" + a);
 
-//        int s = 10;
-//        s += --s;
-//        System.out.println("s = " + s);
+        int s = 10;
+        s += s--;
+        System.out.println("s = " + s);
     }
 }

@@ -1,0 +1,16 @@
+Catching an Exception using try and catch / using finally
+- It is a illegal to use a try clause without either a catch clause or a finally clause. A try clause by itself will result in a compiler error
+- Any catch clauses must immediately follow the try block
+- Any finally clause must immediately  follow the last catch clause(or it must immediately follow the try block if there is no catch)
+- It is legal to omit either the catch clause or the finally clause, but not both
+
+Defining an Exception / Hierarchy Exceptions
+
+                     Object
+                        |
+                    Throwable 
+                  /           \
+              Error          Exception
+                /            /        \
+                     RuntimeException
+ 

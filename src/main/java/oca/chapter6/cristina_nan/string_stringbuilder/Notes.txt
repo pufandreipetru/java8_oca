@@ -1,0 +1,14 @@
+- In Java, each character in a string is a 16-bit Unicode character	
+- In Java, strings are object
+
+String class
+- the String object is immutable, its reference variable is not
+- To make Java more memory efficient, the JVM sets aside a special area of memory called the String constant pool
+- String class is marked final. Nobody can override the behaviors of any of the String methods
+- Important methods in the String Class: charAt(), concat(), equalsIgnoreCase(), length(), replace() etc.
+
+StringBuilder class
+- should be used when you have to make a lot of modifications to strings of characters
+- StringBuilder class has exactly the same API as the StringBuffer class, except StringBuilder is not thread-safe, its methods are not synchronized
+- Oracle recommends that you use StringBuilder instead of StringBuffer whenever possible, because StringBuilder will run faster 
+- StringBuilder objects are changeable
