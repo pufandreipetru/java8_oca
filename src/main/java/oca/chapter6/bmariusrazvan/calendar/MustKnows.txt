@@ -1,0 +1,30 @@
+Calendar classes (Java 1.8 and above):
+    - java.time.LocalDateTime, java.time.LocalDate, java.time.LocalTime, java.time.format.DateTimeFormatter,
+    java.time.Period
+
+a) java.time.LocalDateTime: This class is used to create immutable objects, each of which
+represents a specific date and time. Additionally, this class provides methods that can manipulate
+the values of the date/time objects created and assign them to new immutable objects.
+LocalDateTime objects contain BOTH information about days, months, and years, AND about
+hours, minutes, seconds, and fractions of seconds.
+b) java.time.LocalDate: This class is used to create immutable objects, each of which
+represents a specific date. Additionally, this class provides methods that can manipulate the values
+of the date objects created and assign them to new immutable objects. LocalDate objects are
+accurate only to days. Hours, minutes, and seconds are not part of a LocalDate object.
+c) java.time.LocalTime: This class is used to create immutable objects, each of which
+represents a specific time. Additionally, this class provides methods that can manipulate the values
+of the time objects created and assign them to new immutable objects. LocalTime objects refer
+only to hours, minutes, seconds, and fractions of seconds. Days, months, and years are not a part of
+LocalTime objects.
+d) java.time.format.DateTimeFormatter: This class is used by the classes just described to
+format date/time objects for output and to parse input strings and convert them to date/time objects.
+DateTimeFormatter objects are also immutable.
+e) java.time.Period: This class is used to create immutable objects that represent a period of
+time, for example, "one year, two months, and three days." This class works in years, months, and
+days. If you want to represent chunks of time in increments finer than a day (e.g., hours and
+minutes), you can use the java.time.Duration class, but Duration is not on the exam.
+f) java.time.temporal.TemporalAmount: This interface is implemented by the Period class.
+When you use Period objects to manipulate (see the following section), calendar objects, you’ll
+often use methods that take objects that implement TemporalAmount. In general, as you use the
+Java API more and more, it’s a good idea to learn which classes implement which interfaces; this
+is a key way to learn how the classes in complex packages interact with each other.

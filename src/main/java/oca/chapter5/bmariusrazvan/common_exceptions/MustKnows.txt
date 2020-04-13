@@ -1,0 +1,17 @@
+Common exceptions:
+    - JVM exceptions: Those exceptions or errors that are either exclusively or most logically thrown by the JVM
+    - Programmatic exceptions: Those exceptions that are thrown explicitly by application and/or API programmers
+
+JVM exceptions:
+    - NPE: when attempting to invoke a method on, or access a property from, a ref variable whose current value is null.
+    - ArithmeticException: illegal math operation is attempted (divide by zero).
+    - ExceptionInInitializerError: when attempting to initialize a static variable or an init block.
+    - StackOverflowError: when a method recurses too deeply.
+    - NoClassDefFoundError: when the JVM can't find a class it needs, because of a command-line error, a classpath issue, or a missing .class file.
+    - ArrayIndexOutOfBoundsException: when attempting to access an array with an invalid index value.
+    - ClassCastException: when attempting to cast a reference variable to a type that fails the IS-A test.
+
+Programmatic exceptions:
+    - NumberFormatException: when a method that converts string to a number receives a string it cannot convert.
+    - IllegalArgumentException: when a method receives an argument formatted diff than the method expects.
+    - IllegalStateException: when the state of the env doesn't match the operation being attempted.
